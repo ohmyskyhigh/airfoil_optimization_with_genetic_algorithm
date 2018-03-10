@@ -1,54 +1,10 @@
 ---
-G01A3, airfoil/1gen/G01A3.txt
-G02A3, airfoil/2gen/G02A3.txt
-G03A2, airfoil/3gen/G03A2.txt
-G03A2, airfoil/3gen/G03A2.txt
-G05A10, airfoil/5gen/G05A10.txt
-G06A7, airfoil/6gen/G06A7.txt
-G07A8, airfoil/7gen/G07A8.txt
-G08A2, airfoil/8gen/G08A2.txt
-G09A4, airfoil/9gen/G09A4.txt
-G09A4, airfoil/9gen/G09A4.txt
-G09A4, airfoil/9gen/G09A4.txt
-G09A4, airfoil/9gen/G09A4.txt
-G09A4, airfoil/9gen/G09A4.txt
-G14A5, airfoil/14gen/G14A5.txt
-G15A8, airfoil/15gen/G15A8.txt
-G16A1, airfoil/16gen/G16A1.txt
-G16A1, airfoil/16gen/G16A1.txt
-G18A8, airfoil/18gen/G18A8.txt
-G18A8, airfoil/18gen/G18A8.txt
-G20A1, airfoil/20gen/G20A1.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
-G21A2, airfoil/21gen/G21A2.txt
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
+G01A11, airfoil/1gen/G01A11.txt 76.588
